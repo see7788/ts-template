@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "rootDir": "src", // ✅ 源码根目录
+    "outDir": "dist",
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
